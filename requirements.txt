@@ -1,3 +1,3 @@
-telethon>=1.27.0
-qrcode>=7.3
-openai>=1.0.0
+aiogram
+openai
+httpx
